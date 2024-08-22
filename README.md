@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me: </h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/mitesh-chaudhari-201b57288?" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mitesh-Chaudhari-490aba25a" height="30" width="40" /></a>
-<a href="https://instagram.com/the_artistika.22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MiteshChaudhari" height="30" width="40" /></a>
+<a href="https://www.instagram.com/chaudhari.kunal_?igsh=MTE5ZHJ0NmJvbDRtOQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MiteshChaudhari" height="30" width="40" /></a>
 <a href="https://youtube.com/@kunalchaudhari0569?
  si=ZiOUFdEWCWrs4PKD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
   
